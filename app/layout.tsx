@@ -10,10 +10,6 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  icons: {
-    icon: "/logo.png",
-    apple: "/logo/png",
-  },
   title: "Genius",
   description: "AI Platform",
 };
